@@ -1,1 +1,1 @@
-# Google-Chrome
+Google-Chrome packages for Mosyle deployment
